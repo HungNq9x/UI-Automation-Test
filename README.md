@@ -276,5 +276,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - All contributors to this project
 
 ---
-
-**Note**: Framework này được phát triển cho Unity 2020.3+. Một số tính năng có thể yêu cầu packages bổ sung như TextMeshPro cho text rendering.
