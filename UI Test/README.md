@@ -2,6 +2,26 @@
 
 Framework kiểm thử UI tự động cho Unity, hỗ trợ cấu hình test cases dạng ScriptableObject với các bước (steps) tuần tự và timeout per-step.
 
+## 📚 Documentation
+
+**Tài liệu Wiki đầy đủ:** Xem thư mục [`wiki/`](../wiki/) cho tài liệu chi tiết:
+
+- **[Home](../wiki/Home.md)** - Trang chủ với tổng quan
+- **[Getting Started](../wiki/Getting-Started.md)** - Hướng dẫn bắt đầu
+- **[Architecture](../wiki/Architecture.md)** - Kiến trúc hệ thống
+- **[Test Steps](../wiki/Test-Steps.md)** - Các loại test steps
+- **[UITestRunner Window](../wiki/UITestRunner-Window.md)** - Hướng dẫn Editor Window
+- **[Object Lookup](../wiki/Object-Lookup.md)** - Tìm kiếm UI elements
+- **[Best Practices](../wiki/Best-Practices.md)** - Thực hành tốt nhất
+- **[Custom Test Steps](../wiki/Custom-Test-Steps.md)** - Tạo custom steps
+- **[Custom Actions](../wiki/Custom-Actions.md)** - Tạo custom actions
+- **[Custom Conditions](../wiki/Custom-Conditions.md)** - Tạo custom conditions
+- **[Examples and Tutorials](../wiki/Examples-And-Tutorials.md)** - Ví dụ thực tế
+- **[Troubleshooting](../wiki/Troubleshooting.md)** - Khắc phục sự cố
+- **[API Reference](../wiki/API-Reference.md)** - Tài liệu API
+
+---
+
 ## Kiến trúc
 
 ### Core Components
