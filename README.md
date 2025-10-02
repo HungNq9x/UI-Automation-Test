@@ -269,9 +269,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 👤 Tác giả
-
-**HungNq9x**
 
 ## 🙏 Acknowledgments
 
